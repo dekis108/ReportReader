@@ -6,41 +6,22 @@ namespace ReportReader
 {
     class Program
     {
-        const string path = @"..\..\..\Results\";
+        const string outputPath = @"..\..\..\Results\";
         const string warningsFile = "Warnings.csv";
         const string errorsFile = "Errors.csv";
         const string statisticsFile = "Statistics.csv";
         const string summary = "Summary.csv";
+        const string transformFile = "CIMToDMSTranformReports.txt";
 
         static void Main(string[] args)
         {
-            List<Report> records = new List<Report>()
-            {
-                new Report()
-                {
-                    CircuitName = "c1",
-                    File_Content = "ovako onako",
-                    File = "ovaj",
-                    Date = DateTime.Now,
-                    File_State = "Corrupted",
-                    Log_Directory = "evo"
-                },
-                new Report()
-                {
-                    CircuitName = "c2",
-                    File_Content = "inace",
-                    File = "inace",
-                    Date = DateTime.Now,
-                    File_State = "inace",
-                    Log_Directory = "inace"
-                }
-            };
+            string inputPath = @"C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_FRS_10_23_E0101 [Bulk] _created at_2014-03-04_17-40-08\";
 
+            var records = ReportParser.ParseTransformReport(inputPath, transformFile);
+            CsvWriter.AppendOrCreate(outputPath, warningsFile, records);
 
-
-            CsvWriter.AppendOrCreate(path,warningsFile, records);
-
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Done!");
+            Console.ReadLine();
         }
     }
 }

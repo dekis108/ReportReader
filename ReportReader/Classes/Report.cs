@@ -12,7 +12,7 @@ namespace ReportReader.Classes
 
         public string File { get; set; }
 
-        public DateTime Date { get; set; }
+        public string Date { get; set; }
 
         public string File_State { get; set; }
 
