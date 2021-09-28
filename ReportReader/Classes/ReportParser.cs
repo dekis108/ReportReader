@@ -7,12 +7,18 @@ namespace ReportReader.Classes
 {
     public static class ReportParser
     {
-        public static List<Report> ParseSummaryReport(string path, string fileName)
-        {
-            path = path + fileName;
+        const string outputPath = @"..\..\..\Results\";
+        const string warningsFile = "Warnings.csv";
+        const string errorsFile = "Errors.csv";
+        const string statisticsFile = "Statistics.csv";
+        const string summaryFile = "Summary.csv";
+        const string transformReport = "CIMToDMSTranformReports.txt";
+        const string summaryReport = "SummaryReport.txt";
 
-            string[] temp = path.Split('\\');
-            string directory = temp[temp.Length - 2];
+        private static List<Report> ParseSummaryReport(string directory, string fileName, string circuitName)
+        {
+            string path = directory + '\\' + fileName;
+
             string errorContent = "";
             List<Report> reports = new List<Report>();
 
@@ -42,10 +48,10 @@ namespace ReportReader.Classes
                             reports.Add(
                                 new Report()
                                 {
-                                    CircuitName = "TODO", //TODO
+                                    CircuitName = circuitName,
                                     File_Content = errorContent.Trim(),
                                     File = fileName,
-                                    Date = path.Split("at_")[1],
+                                    Date = path.Split("at_")[1].Split('\\')[0],
                                     Log_Directory = directory,
                                     File_State = "TODO" //TODO
                                 }
@@ -68,12 +74,9 @@ namespace ReportReader.Classes
             return reports;
         }
 
-        public static List<Report> ParseTransformReport(string path, string fileName)
+        private static List<Report> ParseTransformReport(string directory, string fileName)
         {
-            path = path + fileName;
-
-            string[] temp = path.Split('\\');
-            string directory = temp[temp.Length - 2];
+            string path = directory + '\\' + fileName;
 
             string circuitName = "";
             List<Report> reports = new List<Report>();
@@ -100,7 +103,7 @@ namespace ReportReader.Classes
                                     CircuitName = circuitName,
                                     File_Content = words[1],
                                     File = fileName,
-                                    Date = path.Split("at_")[1],
+                                    Date = path.Split("at_")[1].Split('\\')[0],
                                     Log_Directory = directory,
                                     File_State = "TODO" //TODO
                                 }
@@ -116,6 +119,30 @@ namespace ReportReader.Classes
             }
 
             return reports;
+        }
+
+        public static void ParseReports(string directory)
+        {
+            string circuitName = "";
+            string[] reportClass = Directory.GetDirectories(directory);
+            foreach(string subdirectory in reportClass)
+            {
+                string[] reports = Directory.GetDirectories(subdirectory);
+                foreach (string report in reports)
+                {
+                    circuitName = "";
+                    var records = ReportParser.ParseTransformReport(report, transformReport);
+                    CsvWriter.AppendOrCreate(outputPath, warningsFile, records);
+
+                    if (records.Count > 0)
+                    {
+                        circuitName = records[0].CircuitName;
+                    }
+
+                    records = ReportParser.ParseSummaryReport(report, summaryReport, circuitName);
+                    CsvWriter.AppendOrCreate(outputPath, errorsFile, records);
+                }
+            }
         }
     }
 }

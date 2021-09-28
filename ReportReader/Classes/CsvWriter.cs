@@ -10,9 +10,9 @@ namespace ReportReader.Classes
 {
     public static class CsvWriter
     {
-        public static void Write(string path, string fileName, List<Report> records)
+        public static void Write(string directory, string fileName, List<Report> records)
         {
-            path = path + fileName;
+            string path = directory + fileName;
 
             using (var writer = new StreamWriter(path))
             {
@@ -23,9 +23,9 @@ namespace ReportReader.Classes
             }
         }
 
-        public static void AppendOrCreate(string path, string fileName,List<Report> records)
+        public static void AppendOrCreate(string directory, string fileName,List<Report> records)
         {
-            path = path + fileName;
+            string path = directory + fileName;
 
             var config = new CsvConfiguration(CultureInfo.InvariantCulture)
             {
