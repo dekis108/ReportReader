@@ -9,7 +9,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_17-29-48,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_BRT_10_57_E0101 [Bulk] _created at_2014-03-04_17-29-48
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_17-29-48,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_BRT_10_57_E0101 [Bulk] _created at_2014-03-04_17-29-48
 BRT_10_57_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -20,7 +20,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_17-29-48,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_BRT_10_57_E0101 [Bulk] _created at_2014-03-04_17-29-48
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_17-29-48,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_BRT_10_57_E0101 [Bulk] _created at_2014-03-04_17-29-48
 FHO_10_14_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -31,7 +31,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_17-36-41,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_FHO_10_14_E0101 [Bulk] _created at_2014-03-04_17-36-41
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_17-36-41,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_FHO_10_14_E0101 [Bulk] _created at_2014-03-04_17-36-41
 FRS_10_23_E0101,"Error description for entity (CustomId = ""DistributionTransformer.4801"", Name = ""T1"", Alias = ""9016"")
 
 Description: Invalid entity
@@ -44,7 +44,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-40-08,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_FRS_10_23_E0101 [Bulk] _created at_2014-03-04_17-40-08
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-40-08,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_FRS_10_23_E0101 [Bulk] _created at_2014-03-04_17-40-08
 GLN_10_20_E0101,"Error description for entity (CustomId = ""Station.1235ProtGroup"", Name = ""Station.1235ProtGroup"")
 
 Description: Invalid entity
@@ -63,7 +63,7 @@ Error detail 2:
 
  - PropertyId: PROTGROUP_PROTECTIONS
 
- - Validation error code: InvalidProtectionGroupIndex",SummaryReport.txt,2014-03-04_17-42-27,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_GLN_10_20_E0101 [Bulk] _created at_2014-03-04_17-42-27
+ - Validation error code: InvalidProtectionGroupIndex",SummaryReport.txt,2014-03-04_17-42-27,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_GLN_10_20_E0101 [Bulk] _created at_2014-03-04_17-42-27
 GLN_10_20_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.11992ProtEq"", Name = ""HighVoltageSwitch.11992ProtEq"")Error description for entity (CustomId = ""HighVoltageSwitch.11992ProtEq"", Name = ""HighVoltageSwitch.11992ProtEq"")
 
 Description: Invalid entity
@@ -82,7 +82,7 @@ Error detail 2:
 
  - PropertyId: PROTECTEQP_INDEX
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_17-42-27,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_GLN_10_20_E0101 [Bulk] _created at_2014-03-04_17-42-27
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_17-42-27,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_GLN_10_20_E0101 [Bulk] _created at_2014-03-04_17-42-27
 GLN_10_20_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.11993ProtEq"", Name = ""HighVoltageSwitch.11993ProtEq"")Error description for entity (CustomId = ""HighVoltageSwitch.11993ProtEq"", Name = ""HighVoltageSwitch.11993ProtEq"")
 
 Description: Invalid entity
@@ -101,7 +101,7 @@ Error detail 2:
 
  - PropertyId: PROTECTEQP_INDEX
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_17-42-27,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_GLN_10_20_E0101 [Bulk] _created at_2014-03-04_17-42-27
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_17-42-27,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_GLN_10_20_E0101 [Bulk] _created at_2014-03-04_17-42-27
 HBY_10_10_E0101,"Error description for entity (CustomId = ""DistributionTransformer.2699"", Name = ""T1"", Alias = ""4461"")
 
 Description: Invalid entity
@@ -114,7 +114,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-47-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_HBY_10_10_E0101 [Bulk] _created at_2014-03-04_17-47-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-47-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_HBY_10_10_E0101 [Bulk] _created at_2014-03-04_17-47-02
 HOL_10_19_E0101,"Error description for entity (CustomId = ""DistributionTransformer.5199"", Name = ""T1"", Alias = ""1576"")
 
 Description: Invalid entity
@@ -127,7 +127,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-52-03,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_HOL_10_19_E0101 [Bulk] _created at_2014-03-04_17-52-03
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-52-03,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_HOL_10_19_E0101 [Bulk] _created at_2014-03-04_17-52-03
 KAK_10_08_E0101,"Error description for entity (CustomId = ""236fa62a-b49e-497d-acbe-9dd1996f025f"", Name = ""Transformer"", Alias = ""KAK_10_15_E1000"")
 
 Description: Invalid entity
@@ -140,7 +140,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W2RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-00,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_08_E0101 [Bulk] _created at_2014-03-04_17-57-00
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-00,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_08_E0101 [Bulk] _created at_2014-03-04_17-57-00
 KAK_10_12_E0101,"Error description for entity (CustomId = ""BusBar.1326869"", Name = ""53998:1"", Alias = ""53998:1"")
 
 Description: Invalid entity
@@ -153,7 +153,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""BusBar.1326870"", Name = ""53998:1"", Alias = ""53998:1"")Error description for entity (CustomId = ""BusBar.1326870"", Name = ""53998:1"", Alias = ""53998:1"")
 
 Description: Invalid entity
@@ -166,7 +166,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.199609"", Name = ""KAK a KABEL 2"", Alias = ""KAK12-53998"")Error description for entity (CustomId = ""HighVoltageSwitch.199609"", Name = ""KAK a KABEL 2"", Alias = ""KAK12-53998"")
 
 Description: Invalid entity
@@ -179,7 +179,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.201461"", Name = ""KAK a KABEL 1"", Alias = ""KAK13-53998"")Error description for entity (CustomId = ""HighVoltageSwitch.201461"", Name = ""KAK a KABEL 1"", Alias = ""KAK13-53998"")
 
 Description: Invalid entity
@@ -192,7 +192,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.199609.FaultIndicator"", Name = ""KAK a KABEL 2"", Alias = ""KAK12-53998"")Error description for entity (CustomId = ""HighVoltageSwitch.199609.FaultIndicator"", Name = ""KAK a KABEL 2"", Alias = ""KAK12-53998"")
 
 Description: Invalid entity
@@ -205,7 +205,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.201461.FaultIndicator"", Name = ""KAK a KABEL 1"", Alias = ""KAK13-53998"")Error description for entity (CustomId = ""HighVoltageSwitch.201461.FaultIndicator"", Name = ""KAK a KABEL 1"", Alias = ""KAK13-53998"")
 
 Description: Invalid entity
@@ -218,7 +218,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811775"", Name = ""KAK12-53998-3_K"", Alias = ""KAK12-53998-3"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811775"", Name = ""KAK12-53998-3_K"", Alias = ""KAK12-53998-3"")
 
 Description: Invalid entity
@@ -231,7 +231,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6797484"", Name = ""KAK13-53998-3_K"", Alias = ""KAK13-53998-3"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6797484"", Name = ""KAK13-53998-3_K"", Alias = ""KAK13-53998-3"")
 
 Description: Invalid entity
@@ -244,7 +244,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811774"", Name = ""KAK12-53998-2_K"", Alias = ""KAK12-53998-2"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811774"", Name = ""KAK12-53998-2_K"", Alias = ""KAK12-53998-2"")
 
 Description: Invalid entity
@@ -257,7 +257,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6797842"", Name = ""KAK13-53998-2_K"", Alias = ""KAK13-53998-2"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6797842"", Name = ""KAK13-53998-2_K"", Alias = ""KAK13-53998-2"")
 
 Description: Invalid entity
@@ -270,7 +270,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6809750"", Name = ""KAK12-53998-1_K"", Alias = ""KAK12-53998-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6809750"", Name = ""KAK12-53998-1_K"", Alias = ""KAK12-53998-1"")
 
 Description: Invalid entity
@@ -283,7 +283,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6797843"", Name = ""KAK13-53998-1_K"", Alias = ""KAK13-53998-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6797843"", Name = ""KAK13-53998-1_K"", Alias = ""KAK13-53998-1"")
 
 Description: Invalid entity
@@ -296,7 +296,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""71a4ff5d-9e21-4591-9494-59200ce82f4a"", Name = ""KAK_10_T1_KAK_10_AR1"")Error description for entity (CustomId = ""71a4ff5d-9e21-4591-9494-59200ce82f4a"", Name = ""KAK_10_T1_KAK_10_AR1"")
 
 Description: Invalid entity
@@ -309,7 +309,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""50b183ea-da24-4ba2-abf4-a6c16d43776b"", Name = ""KAK_10_31_KAK_10_A31"")Error description for entity (CustomId = ""50b183ea-da24-4ba2-abf4-a6c16d43776b"", Name = ""KAK_10_31_KAK_10_A31"")
 
 Description: Invalid entity
@@ -322,7 +322,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_12_E0101,"Error description for entity (CustomId = ""62089447-d573-4903-aea8-9918c25259a2"", Name = ""KAK_10_01_KAK_10_AR3"")Error description for entity (CustomId = ""62089447-d573-4903-aea8-9918c25259a2"", Name = ""KAK_10_01_KAK_10_AR3"")
 
 Description: Invalid entity
@@ -335,7 +335,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-01,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_12_E0101 [Bulk] _created at_2014-03-04_17-57-01
 KAK_10_14_E0101,"Error description for entity (CustomId = ""BusBar.1357812"", Name = ""53695:1"", Alias = ""53695:1"")
 
 Description: Invalid entity
@@ -348,7 +348,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""BusBar.1357813"", Name = ""53695:1"", Alias = ""53695:1"")Error description for entity (CustomId = ""BusBar.1357813"", Name = ""53695:1"", Alias = ""53695:1"")
 
 Description: Invalid entity
@@ -361,7 +361,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354117"", Name = ""KAK a"", Alias = ""KAK14-53695"")Error description for entity (CustomId = ""HighVoltageSwitch.354117"", Name = ""KAK a"", Alias = ""KAK14-53695"")
 
 Description: Invalid entity
@@ -374,7 +374,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354118"", Name = ""53696 KBST. KLH B"", Alias = ""53695-53696"")Error description for entity (CustomId = ""HighVoltageSwitch.354118"", Name = ""53696 KBST. KLH B"", Alias = ""53695-53696"")
 
 Description: Invalid entity
@@ -387,7 +387,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354117.FaultIndicator"", Name = ""KAK a"", Alias = ""KAK14-53695"")Error description for entity (CustomId = ""HighVoltageSwitch.354117.FaultIndicator"", Name = ""KAK a"", Alias = ""KAK14-53695"")
 
 Description: Invalid entity
@@ -400,7 +400,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354118.FaultIndicator"", Name = ""53696 KBST. KLH B"", Alias = ""53695-53696"")Error description for entity (CustomId = ""HighVoltageSwitch.354118.FaultIndicator"", Name = ""53696 KBST. KLH B"", Alias = ""53695-53696"")
 
 Description: Invalid entity
@@ -413,7 +413,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.9392162"", Name = ""KAK14-53695-1_K"", Alias = ""KAK14-53695-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.9392162"", Name = ""KAK14-53695-1_K"", Alias = ""KAK14-53695-1"")
 
 Description: Invalid entity
@@ -426,7 +426,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.9392161"", Name = ""53695-53696-1_K"", Alias = ""53695-53696-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.9392161"", Name = ""53695-53696-1_K"", Alias = ""53695-53696-1"")
 
 Description: Invalid entity
@@ -439,7 +439,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354119.FaultIndicator"", Name = ""53695 KBST. KLH A"", Alias = ""53695-53696"")Error description for entity (CustomId = ""HighVoltageSwitch.354119.FaultIndicator"", Name = ""53695 KBST. KLH A"", Alias = ""53695-53696"")
 
 Description: Invalid entity
@@ -452,7 +452,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354119"", Name = ""53695 KBST. KLH A"", Alias = ""53695-53696"")Error description for entity (CustomId = ""HighVoltageSwitch.354119"", Name = ""53695 KBST. KLH A"", Alias = ""53695-53696"")
 
 Description: Invalid entity
@@ -465,7 +465,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""BusBar.1357814"", Name = ""53696:1"", Alias = ""53696:1"")Error description for entity (CustomId = ""BusBar.1357814"", Name = ""53696:1"", Alias = ""53696:1"")
 
 Description: Invalid entity
@@ -478,7 +478,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""71a4ff5d-9e21-4591-9494-59200ce82f4a"", Name = ""KAK_10_T1_KAK_10_AR1"")Error description for entity (CustomId = ""71a4ff5d-9e21-4591-9494-59200ce82f4a"", Name = ""KAK_10_T1_KAK_10_AR1"")
 
 Description: Invalid entity
@@ -491,7 +491,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""BusBar.1357815"", Name = ""53696:1"", Alias = ""53696:1"")Error description for entity (CustomId = ""BusBar.1357815"", Name = ""53696:1"", Alias = ""53696:1"")
 
 Description: Invalid entity
@@ -504,7 +504,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354120"", Name = ""KAK b"", Alias = ""KAK28-53696"")Error description for entity (CustomId = ""HighVoltageSwitch.354120"", Name = ""KAK b"", Alias = ""KAK28-53696"")
 
 Description: Invalid entity
@@ -517,7 +517,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""50b183ea-da24-4ba2-abf4-a6c16d43776b"", Name = ""KAK_10_31_KAK_10_A31"")Error description for entity (CustomId = ""50b183ea-da24-4ba2-abf4-a6c16d43776b"", Name = ""KAK_10_31_KAK_10_A31"")
 
 Description: Invalid entity
@@ -530,7 +530,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.354120.FaultIndicator"", Name = ""KAK b"", Alias = ""KAK28-53696"")Error description for entity (CustomId = ""HighVoltageSwitch.354120.FaultIndicator"", Name = ""KAK b"", Alias = ""KAK28-53696"")
 
 Description: Invalid entity
@@ -543,7 +543,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.9392163"", Name = ""KAK28-53696-1_K"", Alias = ""KAK28-53696-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.9392163"", Name = ""KAK28-53696-1_K"", Alias = ""KAK28-53696-1"")
 
 Description: Invalid entity
@@ -556,7 +556,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""62089447-d573-4903-aea8-9918c25259a2"", Name = ""KAK_10_01_KAK_10_AR3"")Error description for entity (CustomId = ""62089447-d573-4903-aea8-9918c25259a2"", Name = ""KAK_10_01_KAK_10_AR3"")
 
 Description: Invalid entity
@@ -569,7 +569,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_14_E0101,"Error description for entity (CustomId = ""86ad48d2-14e8-49c2-84d0-4d0f9e058f87"", Name = ""KAK_10_32_KAK_10_A32"")Error description for entity (CustomId = ""86ad48d2-14e8-49c2-84d0-4d0f9e058f87"", Name = ""KAK_10_32_KAK_10_A32"")
 
 Description: Invalid entity
@@ -582,7 +582,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-02,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_14_E0101 [Bulk] _created at_2014-03-04_17-57-02
 KAK_10_29_E0101,"Error description for entity (CustomId = ""adfccfc9-ab7c-4033-a74f-b96248ec3828"", Name = ""Transformer"", Alias = ""KAK_10_27_E1000"")
 
 Description: Invalid entity
@@ -595,7 +595,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W2RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-04,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_29_E0101 [Bulk] _created at_2014-03-04_17-57-04
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-04,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_29_E0101 [Bulk] _created at_2014-03-04_17-57-04
 KAK_10_38_E0101,"Error description for entity (CustomId = ""BusBar.1355583"", Name = ""53693:1"", Alias = ""53693:1"")
 
 Description: Invalid entity
@@ -608,7 +608,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""BusBar.830958"", Name = ""53693:1"", Alias = ""53693:1"")Error description for entity (CustomId = ""BusBar.830958"", Name = ""53693:1"", Alias = ""53693:1"")
 
 Description: Invalid entity
@@ -621,7 +621,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""BusBar.835835"", Name = ""53693:1"", Alias = ""53693:1"")Error description for entity (CustomId = ""BusBar.835835"", Name = ""53693:1"", Alias = ""53693:1"")
 
 Description: Invalid entity
@@ -634,7 +634,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""BusBar.859342"", Name = ""53693:1"", Alias = ""53693:1"")Error description for entity (CustomId = ""BusBar.859342"", Name = ""53693:1"", Alias = ""53693:1"")
 
 Description: Invalid entity
@@ -647,7 +647,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.197770"", Name = ""KAK b KABEL 3"", Alias = ""KAK40-53693"")Error description for entity (CustomId = ""HighVoltageSwitch.197770"", Name = ""KAK b KABEL 3"", Alias = ""KAK40-53693"")
 
 Description: Invalid entity
@@ -660,7 +660,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.197769"", Name = ""KAK b KABEL 1"", Alias = ""KAK38-53693"")Error description for entity (CustomId = ""HighVoltageSwitch.197769"", Name = ""KAK b KABEL 1"", Alias = ""KAK38-53693"")
 
 Description: Invalid entity
@@ -673,7 +673,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.202708"", Name = ""KAK b KABEL 2"", Alias = ""KAK39-53693"")Error description for entity (CustomId = ""HighVoltageSwitch.202708"", Name = ""KAK b KABEL 2"", Alias = ""KAK39-53693"")
 
 Description: Invalid entity
@@ -686,7 +686,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.197770.FaultIndicator"", Name = ""KAK b KABEL 3"", Alias = ""KAK40-53693"")Error description for entity (CustomId = ""HighVoltageSwitch.197770.FaultIndicator"", Name = ""KAK b KABEL 3"", Alias = ""KAK40-53693"")
 
 Description: Invalid entity
@@ -699,7 +699,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.197769.FaultIndicator"", Name = ""KAK b KABEL 1"", Alias = ""KAK38-53693"")Error description for entity (CustomId = ""HighVoltageSwitch.197769.FaultIndicator"", Name = ""KAK b KABEL 1"", Alias = ""KAK38-53693"")
 
 Description: Invalid entity
@@ -712,7 +712,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.202708.FaultIndicator"", Name = ""KAK b KABEL 2"", Alias = ""KAK39-53693"")Error description for entity (CustomId = ""HighVoltageSwitch.202708.FaultIndicator"", Name = ""KAK b KABEL 2"", Alias = ""KAK39-53693"")
 
 Description: Invalid entity
@@ -725,7 +725,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6813755"", Name = ""KAK40-53693-5_K"", Alias = ""KAK40-53693-5"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6813755"", Name = ""KAK40-53693-5_K"", Alias = ""KAK40-53693-5"")
 
 Description: Invalid entity
@@ -738,7 +738,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6813756"", Name = ""KAK38-53693-5_K"", Alias = ""KAK38-53693-5"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6813756"", Name = ""KAK38-53693-5_K"", Alias = ""KAK38-53693-5"")
 
 Description: Invalid entity
@@ -751,7 +751,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6806347"", Name = ""KAK39-53693-5_K"", Alias = ""KAK39-53693-5"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6806347"", Name = ""KAK39-53693-5_K"", Alias = ""KAK39-53693-5"")
 
 Description: Invalid entity
@@ -764,7 +764,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6813754"", Name = ""KAK40-53693-4_K"", Alias = ""KAK40-53693-4"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6813754"", Name = ""KAK40-53693-4_K"", Alias = ""KAK40-53693-4"")
 
 Description: Invalid entity
@@ -777,7 +777,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6819515"", Name = ""KAK38-53693-4_K"", Alias = ""KAK38-53693-4"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6819515"", Name = ""KAK38-53693-4_K"", Alias = ""KAK38-53693-4"")
 
 Description: Invalid entity
@@ -790,7 +790,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6820556"", Name = ""KAK39-53693-4_K"", Alias = ""KAK39-53693-4"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6820556"", Name = ""KAK39-53693-4_K"", Alias = ""KAK39-53693-4"")
 
 Description: Invalid entity
@@ -803,7 +803,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6806349"", Name = ""KAK40-53693-3_K"", Alias = ""KAK40-53693-3"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6806349"", Name = ""KAK40-53693-3_K"", Alias = ""KAK40-53693-3"")
 
 Description: Invalid entity
@@ -816,7 +816,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6819516"", Name = ""KAK38-53693-3_K"", Alias = ""KAK38-53693-3"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6819516"", Name = ""KAK38-53693-3_K"", Alias = ""KAK38-53693-3"")
 
 Description: Invalid entity
@@ -829,7 +829,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6821632"", Name = ""KAK39-53693-3_K"", Alias = ""KAK39-53693-3"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6821632"", Name = ""KAK39-53693-3_K"", Alias = ""KAK39-53693-3"")
 
 Description: Invalid entity
@@ -842,7 +842,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6820558"", Name = ""KAK40-53693-2_K"", Alias = ""KAK40-53693-2"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6820558"", Name = ""KAK40-53693-2_K"", Alias = ""KAK40-53693-2"")
 
 Description: Invalid entity
@@ -855,7 +855,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811566"", Name = ""KAK38-53693-2_K"", Alias = ""KAK38-53693-2"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811566"", Name = ""KAK38-53693-2_K"", Alias = ""KAK38-53693-2"")
 
 Description: Invalid entity
@@ -868,7 +868,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6821631"", Name = ""KAK39-53693-2_K"", Alias = ""KAK39-53693-2"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6821631"", Name = ""KAK39-53693-2_K"", Alias = ""KAK39-53693-2"")
 
 Description: Invalid entity
@@ -881,7 +881,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6820557"", Name = ""KAK40-53693-1_K"", Alias = ""KAK40-53693-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6820557"", Name = ""KAK40-53693-1_K"", Alias = ""KAK40-53693-1"")
 
 Description: Invalid entity
@@ -894,7 +894,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811567"", Name = ""KAK38-53693-1_K"", Alias = ""KAK38-53693-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6811567"", Name = ""KAK38-53693-1_K"", Alias = ""KAK38-53693-1"")
 
 Description: Invalid entity
@@ -907,7 +907,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""UndergroundElectricLineSegment.6798582"", Name = ""KAK39-53693-1_K"", Alias = ""KAK39-53693-1"")Error description for entity (CustomId = ""UndergroundElectricLineSegment.6798582"", Name = ""KAK39-53693-1_K"", Alias = ""KAK39-53693-1"")
 
 Description: Invalid entity
@@ -920,7 +920,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KAK_10_38_E0101,"Error description for entity (CustomId = ""86ad48d2-14e8-49c2-84d0-4d0f9e058f87"", Name = ""KAK_10_32_KAK_10_A32"")Error description for entity (CustomId = ""86ad48d2-14e8-49c2-84d0-4d0f9e058f87"", Name = ""KAK_10_32_KAK_10_A32"")
 
 Description: Invalid entity
@@ -933,7 +933,7 @@ Error detail 1:
 
  - PropertyId: CATAL_VOLTAGE
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_17-57-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KAK_10_38_E0101 [Bulk] _created at_2014-03-04_17-57-05
 KNU_10_01_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -944,7 +944,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_01_E0101 [Bulk] _created at_2014-03-04_18-02-05
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_01_E0101 [Bulk] _created at_2014-03-04_18-02-05
 KNU_10_02_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -955,7 +955,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-08,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_02_E0101 [Bulk] _created at_2014-03-04_18-02-08
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-08,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_02_E0101 [Bulk] _created at_2014-03-04_18-02-08
 KNU_10_07_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -966,7 +966,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-18,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_07_E0101 [Bulk] _created at_2014-03-04_18-02-18
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-18,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_07_E0101 [Bulk] _created at_2014-03-04_18-02-18
 KNU_10_20_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -977,7 +977,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-47,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_20_E0101 [Bulk] _created at_2014-03-04_18-02-47
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-47,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_20_E0101 [Bulk] _created at_2014-03-04_18-02-47
 KNU_10_23_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -988,7 +988,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-55,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_23_E0101 [Bulk] _created at_2014-03-04_18-02-55
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-02-55,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_23_E0101 [Bulk] _created at_2014-03-04_18-02-55
 KNU_10_35_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.232996"", Name = ""60266 FREDERIKSBERGCENTRET B"", Alias = ""60265_2-60266"")
 
 Description: Invalid entity
@@ -999,7 +999,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-03-23,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_35_E0101 [Bulk] _created at_2014-03-04_18-03-23
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-03-23,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_35_E0101 [Bulk] _created at_2014-03-04_18-03-23
 KNU_10_35_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1010,7 +1010,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-03-23,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_35_E0101 [Bulk] _created at_2014-03-04_18-03-23
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-03-23,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_KNU_10_35_E0101 [Bulk] _created at_2014-03-04_18-03-23
 LGT_10_37_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.203475"", Name = ""LGT a KABEL 1"", Alias = ""LGT14-52940"")
 
 Description: Invalid entity
@@ -1021,7 +1021,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-05-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LGT_10_37_E0101 [Bulk] _created at_2014-03-04_18-05-05
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-05-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LGT_10_37_E0101 [Bulk] _created at_2014-03-04_18-05-05
 LGT_10_37_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1032,7 +1032,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-05-05,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LGT_10_37_E0101 [Bulk] _created at_2014-03-04_18-05-05
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-05-05,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LGT_10_37_E0101 [Bulk] _created at_2014-03-04_18-05-05
 LIN_10_06_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1043,7 +1043,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-27,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_06_E0101 [Bulk] _created at_2014-03-04_18-05-27
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-27,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_06_E0101 [Bulk] _created at_2014-03-04_18-05-27
 LIN_10_10_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1054,7 +1054,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-39,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_10_E0101 [Bulk] _created at_2014-03-04_18-05-39
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-39,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_10_E0101 [Bulk] _created at_2014-03-04_18-05-39
 LIN_10_16_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1065,7 +1065,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-42,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_16_E0101 [Bulk] _created at_2014-03-04_18-05-42
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-42,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_16_E0101 [Bulk] _created at_2014-03-04_18-05-42
 LIN_10_17_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1076,7 +1076,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-44,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_17_E0101 [Bulk] _created at_2014-03-04_18-05-44
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-44,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_17_E0101 [Bulk] _created at_2014-03-04_18-05-44
 LIN_10_18_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1087,7 +1087,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-46,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_18_E0101 [Bulk] _created at_2014-03-04_18-05-46
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-46,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_18_E0101 [Bulk] _created at_2014-03-04_18-05-46
 LIN_10_19_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1098,7 +1098,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-48,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_19_E0101 [Bulk] _created at_2014-03-04_18-05-48
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-48,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_19_E0101 [Bulk] _created at_2014-03-04_18-05-48
 LIN_10_31_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1109,7 +1109,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-57,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_31_E0101 [Bulk] _created at_2014-03-04_18-05-57
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-05-57,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_31_E0101 [Bulk] _created at_2014-03-04_18-05-57
 LIN_10_36_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1120,7 +1120,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-06-08,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_36_E0101 [Bulk] _created at_2014-03-04_18-06-08
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-06-08,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_36_E0101 [Bulk] _created at_2014-03-04_18-06-08
 LIN_10_45_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1131,7 +1131,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-06-14,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_45_E0101 [Bulk] _created at_2014-03-04_18-06-14
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-06-14,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_45_E0101 [Bulk] _created at_2014-03-04_18-06-14
 LIN_10_49_E0101,"Error description for entity (CustomId = ""4F67C2B6C2D498427908B5938AA62F2A3E7E5E91"", Name = ""REY_GIS_200_10kV_8700A"")
 
 Description: Invalid entity
@@ -1142,7 +1142,7 @@ Error detail 1:
 
  - PropertyId: DISCONNECTORC_BREAKINGI
 
- - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-06-24,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_49_E0101 [Bulk] _created at_2014-03-04_18-06-24
+ - Validation error code: InvalidConditionalAbsoluteRange",SummaryReport.txt,2014-03-04_18-06-24,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_LIN_10_49_E0101 [Bulk] _created at_2014-03-04_18-06-24
 MAG_10_22_E0101,"Error description for entity (CustomId = ""DistributionTransformer.593"", Name = ""T1"", Alias = ""1901"")
 
 Description: Invalid entity
@@ -1155,7 +1155,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-08-30,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_MAG_10_22_E0101 [Bulk] _created at_2014-03-04_18-08-30
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-08-30,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_MAG_10_22_E0101 [Bulk] _created at_2014-03-04_18-08-30
 NGT_10_29_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.267240"", Name = ""Kobling 1"")
 
 Description: Invalid entity
@@ -1166,7 +1166,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-11-52,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_NGT_10_29_E0101 [Bulk] _created at_2014-03-04_18-11-52
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-11-52,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_NGT_10_29_E0101 [Bulk] _created at_2014-03-04_18-11-52
 NGT_10_29_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1177,7 +1177,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-11-52,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_NGT_10_29_E0101 [Bulk] _created at_2014-03-04_18-11-52
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-11-52,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_NGT_10_29_E0101 [Bulk] _created at_2014-03-04_18-11-52
 OAT_10_17_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.266593"", Name = ""UKENDT 1"")
 
 Description: Invalid entity
@@ -1188,7 +1188,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-16-41,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_OAT_10_17_E0101 [Bulk] _created at_2014-03-04_18-16-41
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-16-41,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_OAT_10_17_E0101 [Bulk] _created at_2014-03-04_18-16-41
 OAT_10_17_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1199,7 +1199,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-16-41,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_OAT_10_17_E0101 [Bulk] _created at_2014-03-04_18-16-41
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-16-41,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_OAT_10_17_E0101 [Bulk] _created at_2014-03-04_18-16-41
 SIB_10_10_E0101,"Error description for entity (CustomId = ""DistributionTransformer.103"", Name = ""T1"", Alias = ""555"")
 
 Description: Invalid entity
@@ -1212,7 +1212,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-23-09,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_SIB_10_10_E0101 [Bulk] _created at_2014-03-04_18-23-09
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-23-09,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_SIB_10_10_E0101 [Bulk] _created at_2014-03-04_18-23-09
 SUT_10_38_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.243234"", Name = ""Kobling 2"")
 
 Description: Invalid entity
@@ -1223,7 +1223,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-25-28,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_SUT_10_38_E0101 [Bulk] _created at_2014-03-04_18-25-28
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-25-28,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_SUT_10_38_E0101 [Bulk] _created at_2014-03-04_18-25-28
 SUT_10_38_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1234,7 +1234,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-25-28,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_SUT_10_38_E0101 [Bulk] _created at_2014-03-04_18-25-28
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-25-28,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_SUT_10_38_E0101 [Bulk] _created at_2014-03-04_18-25-28
 TEG_10_10_E0101,"Error description for entity (CustomId = ""DistributionTransformer.2585"", Name = ""T1"", Alias = ""4103"")
 
 Description: Invalid entity
@@ -1247,7 +1247,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-26-39,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TEG_10_10_E0101 [Bulk] _created at_2014-03-04_18-26-39
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-26-39,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TEG_10_10_E0101 [Bulk] _created at_2014-03-04_18-26-39
 TIT_10_32_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.351028"", Name = ""Kobling 1"")
 
 Description: Invalid entity
@@ -1258,7 +1258,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-27-21,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_32_E0101 [Bulk] _created at_2014-03-04_18-27-21
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-27-21,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_32_E0101 [Bulk] _created at_2014-03-04_18-27-21
 TIT_10_32_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1269,7 +1269,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-27-21,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_32_E0101 [Bulk] _created at_2014-03-04_18-27-21
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-27-21,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_32_E0101 [Bulk] _created at_2014-03-04_18-27-21
 TIT_10_55_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.351029"", Name = ""Kobling 1"")
 
 Description: Invalid entity
@@ -1280,7 +1280,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-27-52,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_55_E0101 [Bulk] _created at_2014-03-04_18-27-52
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-27-52,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_55_E0101 [Bulk] _created at_2014-03-04_18-27-52
 TIT_10_55_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1291,7 +1291,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-27-52,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_55_E0101 [Bulk] _created at_2014-03-04_18-27-52
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-27-52,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_55_E0101 [Bulk] _created at_2014-03-04_18-27-52
 TIT_10_65_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.264358"", Name = ""SKINNE 1"")
 
 Description: Invalid entity
@@ -1302,7 +1302,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-28-19,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_65_E0101 [Bulk] _created at_2014-03-04_18-28-19
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-28-19,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_65_E0101 [Bulk] _created at_2014-03-04_18-28-19
 TIT_10_65_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1313,7 +1313,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-28-19,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_65_E0101 [Bulk] _created at_2014-03-04_18-28-19
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-28-19,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_65_E0101 [Bulk] _created at_2014-03-04_18-28-19
 TIT_10_66_E0101,"Error description for entity (CustomId = ""HighVoltageSwitch.264366"", Name = ""Kabelsløjfe 1"")
 
 Description: Invalid entity
@@ -1324,7 +1324,7 @@ Error detail 1:
 
  - PropertyId: PSR_MEAS
 
- - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-28-23,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_66_E0101 [Bulk] _created at_2014-03-04_18-28-23
+ - Validation error code: InvalidVectorCount",SummaryReport.txt,2014-03-04_18-28-23,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_66_E0101 [Bulk] _created at_2014-03-04_18-28-23
 TIT_10_66_E0101,"Error description for entity ()Error description for entity ()
 
 Description: Invalid entity
@@ -1335,7 +1335,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-28-23,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_66_E0101 [Bulk] _created at_2014-03-04_18-28-23
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-28-23,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TIT_10_66_E0101 [Bulk] _created at_2014-03-04_18-28-23
 TRO_10_09_E0101,"Error description for entity (CustomId = ""DistributionTransformer.2840"", Name = ""T1"", Alias = ""4002"")
 
 Description: Invalid entity
@@ -1348,7 +1348,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-28-44,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TRO_10_09_E0101 [Bulk] _created at_2014-03-04_18-28-44
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-28-44,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TRO_10_09_E0101 [Bulk] _created at_2014-03-04_18-28-44
 TST_10_10_E0101,"Error description for entity (CustomId = ""DistributionTransformer.1175"", Name = ""T1"", Alias = ""3016"")
 
 Description: Invalid entity
@@ -1361,7 +1361,7 @@ Error detail 1:
 
  - PropertyId: POWERTRC2W_W1RATEDU
 
- - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-29-22,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TST_10_10_E0101 [Bulk] _created at_2014-03-04_18-29-22
+ - Validation error code: InvalidVoltageCompatibility",SummaryReport.txt,2014-03-04_18-29-22,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_TST_10_10_E0101 [Bulk] _created at_2014-03-04_18-29-22
 VAL_10_19_E0101,"Error description for entity ()
 
 Description: Invalid entity
@@ -1372,7 +1372,7 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-31-00,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_VAL_10_19_E0101 [Bulk] _created at_2014-03-04_18-31-00
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-31-00,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_VAL_10_19_E0101 [Bulk] _created at_2014-03-04_18-31-00
 VAL_10_20_E0101,"Error description for entity ()
 
 Description: Invalid entity
@@ -1383,4 +1383,4 @@ Error detail 1:
 
  - PropertyId: IDOBJ_CUSTOMID
 
- - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-31-03,TODO,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_VAL_10_20_E0101 [Bulk] _created at_2014-03-04_18-31-03
+ - Validation error code: InvalidCustomIds",SummaryReport.txt,2014-03-04_18-31-03,Rejected ChangeSet,C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\Rejected\Reports_for_ChangeSet_VAL_10_20_E0101 [Bulk] _created at_2014-03-04_18-31-03

@@ -15,6 +15,24 @@ namespace ReportReader.Classes
         const string transformReport = "CIMToDMSTranformReports.txt";
         const string summaryReport = "SummaryReport.txt";
 
+
+        private static string ParseDate(string path)
+        {
+            return path.Split("at_")[1].Split('\\')[0];
+        }
+
+        private static string ParseFileState(string path)
+        {
+            string[] directories = path.Split('\\');
+            string currentDirectory = directories[directories.Length - 1];
+            string prevDirectory = directories[directories.Length - 2];
+
+            string reason = currentDirectory.Split('_')[2];
+
+            return prevDirectory + " " + reason;
+        }
+
+
         private static List<Report> ParseSummaryReport(string directory, string fileName, string circuitName)
         {
             string path = directory + '\\' + fileName;
@@ -51,9 +69,9 @@ namespace ReportReader.Classes
                                     CircuitName = circuitName,
                                     File_Content = errorContent.Trim(),
                                     File = fileName,
-                                    Date = path.Split("at_")[1].Split('\\')[0],
+                                    Date = ParseDate(path),
                                     Log_Directory = directory,
-                                    File_State = "TODO" //TODO
+                                    File_State = ParseFileState(directory),
                                 }
                             );
 
@@ -103,9 +121,9 @@ namespace ReportReader.Classes
                                     CircuitName = circuitName,
                                     File_Content = words[1],
                                     File = fileName,
-                                    Date = path.Split("at_")[1].Split('\\')[0],
+                                    Date = ParseDate(path),
                                     Log_Directory = directory,
-                                    File_State = "TODO" //TODO
+                                    File_State = ParseFileState(directory),
                                 }
                              );
 
