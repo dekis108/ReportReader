@@ -18,6 +18,8 @@ namespace ReportReader.Classes
             {
                 using (var csv = new CsvHelper.CsvWriter(writer, CultureInfo.InvariantCulture))
                 {
+                    csv.Context.RegisterClassMap<ReportMap>();
+
                     csv.WriteRecords(records);
                 }
             }

@@ -5,8 +5,12 @@ using System.Text;
 
 namespace ReportReader.Classes
 {
+    public enum ReportType { Summary = 0, Transform }
+
     public class Report
     {
+        public ReportType ReportType { get; set; }
+
         public string CircuitName { get; set; }
 
         public string File_Content { get; set; }

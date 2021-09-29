@@ -15,7 +15,7 @@ namespace ReportReader.Classes
         const string transformReport = "CIMToDMSTranformReports.txt";
         const string summaryReport = "SummaryReport.txt";
 
-        public enum ReportType { CSV = 0, SQLite};
+        public enum ReportOutput { CSV = 0, SQLite};
 
         private static string ParseDate(string path)
         {
@@ -67,6 +67,7 @@ namespace ReportReader.Classes
                             reports.Add(
                                 new Report()
                                 {
+                                    ReportType = ReportType.Summary,
                                     CircuitName = circuitName,
                                     File_Content = errorContent.Trim(),
                                     File = fileName,
@@ -119,6 +120,7 @@ namespace ReportReader.Classes
                             reports.Add(
                                 new Report()
                                 {
+                                    ReportType = ReportType.Transform,
                                     CircuitName = circuitName,
                                     File_Content = words[1],
                                     File = fileName,
@@ -140,10 +142,13 @@ namespace ReportReader.Classes
             return reports;
         }
 
-        public static void ParseReports(string directory, ReportType type)
+        public static List<Report> ParseReports(string directory)
         {
             string circuitName = "";
             string[] reportClass = Directory.GetDirectories(directory);
+
+            List<Report> allRecords = new List<Report>();
+
             foreach(string subdirectory in reportClass)
             {
                 string[] reports = Directory.GetDirectories(subdirectory);
@@ -151,25 +156,35 @@ namespace ReportReader.Classes
                 {
                     circuitName = "";
                     var transformRecords = ReportParser.ParseTransformReport(report, transformReport);
+                    allRecords.AddRange(transformRecords);
+
                     if (transformRecords.Count > 0)
                     {
                         circuitName = transformRecords[0].CircuitName;
                     }
+
                     var summaryRecords = ReportParser.ParseSummaryReport(report, summaryReport, circuitName);
-
-                    switch(type)
-                    {
-                        default:
-                        case ReportType.CSV:
-                            CsvWriter.AppendOrCreate(outputPath, warningsFile, transformRecords);
-                            CsvWriter.AppendOrCreate(outputPath, errorsFile, summaryRecords);
-                            break;
-                        case ReportType.SQLite:
-                            SQLiteWriter.Write(summaryRecords, transformRecords);
-                            break;
-                    }
-
+                    allRecords.AddRange(summaryRecords);
                 }
+            }
+            return allRecords;
+        }
+
+        public static void SaveReports(List<Report> records, ReportOutput type)
+        {
+            List<Report> transformRecords = records.FindAll(x => x.ReportType == ReportType.Transform);
+            List<Report> summaryRecords = records.FindAll(x => x.ReportType == ReportType.Summary);
+
+            switch (type)
+            {
+                default:
+                case ReportOutput.CSV:
+                    CsvWriter.AppendOrCreate(outputPath, warningsFile, transformRecords);
+                    CsvWriter.AppendOrCreate(outputPath, errorsFile, summaryRecords);
+                    break;
+                case ReportOutput.SQLite:
+                    SQLiteWriter.Write(summaryRecords, transformRecords);
+                    break;
             }
         }
     }
