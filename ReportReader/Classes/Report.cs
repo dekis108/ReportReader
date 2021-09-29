@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.Serialization;
 using System.Text;
 
 namespace ReportReader.Classes
@@ -17,5 +18,11 @@ namespace ReportReader.Classes
         public string File_State { get; set; }
 
         public string Log_Directory { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format($"({CircuitName},{File_Content},{File},{Date},{File_State},{Log_Directory})");
+        }
+
     }
 }

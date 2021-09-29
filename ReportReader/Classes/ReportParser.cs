@@ -15,6 +15,7 @@ namespace ReportReader.Classes
         const string transformReport = "CIMToDMSTranformReports.txt";
         const string summaryReport = "SummaryReport.txt";
 
+        public enum ReportType { CSV = 0, SQLite};
 
         private static string ParseDate(string path)
         {
@@ -139,7 +140,7 @@ namespace ReportReader.Classes
             return reports;
         }
 
-        public static void ParseReports(string directory)
+        public static void ParseReports(string directory, ReportType type)
         {
             string circuitName = "";
             string[] reportClass = Directory.GetDirectories(directory);
@@ -149,16 +150,25 @@ namespace ReportReader.Classes
                 foreach (string report in reports)
                 {
                     circuitName = "";
-                    var records = ReportParser.ParseTransformReport(report, transformReport);
-                    CsvWriter.AppendOrCreate(outputPath, warningsFile, records);
-
-                    if (records.Count > 0)
+                    var transformRecords = ReportParser.ParseTransformReport(report, transformReport);
+                    if (transformRecords.Count > 0)
                     {
-                        circuitName = records[0].CircuitName;
+                        circuitName = transformRecords[0].CircuitName;
+                    }
+                    var summaryRecords = ReportParser.ParseSummaryReport(report, summaryReport, circuitName);
+
+                    switch(type)
+                    {
+                        default:
+                        case ReportType.CSV:
+                            CsvWriter.AppendOrCreate(outputPath, warningsFile, transformRecords);
+                            CsvWriter.AppendOrCreate(outputPath, errorsFile, summaryRecords);
+                            break;
+                        case ReportType.SQLite:
+                            SQLiteWriter.Write(summaryRecords, transformRecords);
+                            break;
                     }
 
-                    records = ReportParser.ParseSummaryReport(report, summaryReport, circuitName);
-                    CsvWriter.AppendOrCreate(outputPath, errorsFile, records);
                 }
             }
         }

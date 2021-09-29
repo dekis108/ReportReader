@@ -10,7 +10,9 @@ namespace ReportReader
         {
             string directory = @"C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\";
 
-            ReportParser.ParseReports(directory);
+            //ReportParser.ParseReports(directory, ReportParser.ReportType.CSV);
+
+            ReportParser.ParseReports(directory, ReportParser.ReportType.SQLite);
 
             Console.WriteLine("Done!");
             Console.ReadLine();
