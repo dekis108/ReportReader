@@ -6,13 +6,18 @@ namespace ReportReader
 {
     class Program
     {
+        const string directory = @"C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\";
+        const string outputPath = @"..\..\..\Results\";
+        static string connection = @"..\..\..\Results\Reports.db";
+
         static void Main(string[] args)
         {
-            string directory = @"C:\Users\Dejan\Desktop\DMSZadatak\Zadatak\Reports\Reports\";
-
             var records =  ReportParser.ParseReports(directory);
-            ReportParser.SaveReports(records, ReportParser.ReportOutput.CSV);
-            ReportParser.SaveReports(records, ReportParser.ReportOutput.SQLite);
+            connection = System.IO.Path.GetFullPath(connection);
+            string connectionString = string.Format($@"Data Source={connection};");
+
+            ReportParser.SaveReports(records, ReportParser.ReportOutput.CSV, outputPath);
+            ReportParser.SaveReports(records, ReportParser.ReportOutput.SQLite, connectionString);
 
 
             Console.WriteLine("Done!");

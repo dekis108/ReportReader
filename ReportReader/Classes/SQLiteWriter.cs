@@ -9,7 +9,7 @@ namespace ReportReader.Classes
     {
         private static string warningTable = "Warnings";
         private static string errorTable = "Errors";
-        private static string connectionString = @"Data Source=C:\Users\Dejan\Desktop\DMSZadatak\Solutions\ReportReader\ReportReader\Results\Reports.db;"; 
+        //private static string connectionString = @"Data Source=C:\Users\Dejan\Desktop\DMSZadatak\Solutions\ReportReader\ReportReader\Results\Reports.db;"; 
 
         private static SqliteCommand InsertCommand(SqliteConnection connection, string table, Report report)
         {
@@ -28,7 +28,7 @@ namespace ReportReader.Classes
             return command;
         }
 
-        public static void Write(List<Report> summaryReports, List<Report> transformReports)
+        public static void Write(List<Report> summaryReports, List<Report> transformReports, string connectionString)
         {
             try
             {

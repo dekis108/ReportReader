@@ -7,7 +7,7 @@ namespace ReportReader.Classes
 {
     public static class ReportParser
     {
-        const string outputPath = @"..\..\..\Results\";
+        //const string outputPath = @"..\..\..\Results\";
         const string warningsFile = "Warnings.csv";
         const string errorsFile = "Errors.csv";
         const string statisticsFile = "Statistics.csv";
@@ -170,7 +170,7 @@ namespace ReportReader.Classes
             return allRecords;
         }
 
-        public static void SaveReports(List<Report> records, ReportOutput type)
+        public static void SaveReports(List<Report> records, ReportOutput type, string path)
         {
             List<Report> transformRecords = records.FindAll(x => x.ReportType == ReportType.Transform);
             List<Report> summaryRecords = records.FindAll(x => x.ReportType == ReportType.Summary);
@@ -179,11 +179,11 @@ namespace ReportReader.Classes
             {
                 default:
                 case ReportOutput.CSV:
-                    CsvWriter.AppendOrCreate(outputPath, warningsFile, transformRecords);
-                    CsvWriter.AppendOrCreate(outputPath, errorsFile, summaryRecords);
+                    CsvWriter.AppendOrCreate(path, warningsFile, transformRecords);
+                    CsvWriter.AppendOrCreate(path, errorsFile, summaryRecords);
                     break;
                 case ReportOutput.SQLite:
-                    SQLiteWriter.Write(summaryRecords, transformRecords);
+                    SQLiteWriter.Write(summaryRecords, transformRecords, path);
                     break;
             }
         }
