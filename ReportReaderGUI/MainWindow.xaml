@@ -31,9 +31,8 @@
                 <DataGrid x:Name="gridTransformReports"  />
             </TabItem>
         </TabControl>
-        <Button x:Name="btnSaveFile" Content="Save to file" HorizontalAlignment="Left" Margin="10,410,0,0" VerticalAlignment="Top" Width="88" Click="btnSaveFile_Click"/>
-        <Button x:Name="btnSaveDB" Content="Save to Database
-" HorizontalAlignment="Left" Margin="126,410,0,0" VerticalAlignment="Top" Width="106" Click="btnSaveDB_Click"/>
+        <Button x:Name="btnSaveFile" Content="Save to file" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,15"  Width="88" Click="btnSaveFile_Click"/>
+        <Button x:Name="btnSaveDB" Content="Save to Database" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="132,0,0,15"  Width="106" Click="btnSaveDB_Click"/>
 
 
     </Grid>
