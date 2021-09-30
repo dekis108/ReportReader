@@ -15,6 +15,8 @@ using System.Windows.Shapes;
 using System.IO;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using ReportReader.Classes;
+using System.Data;
+using System.Collections.ObjectModel;
 
 namespace ReportReaderGUI
 {
@@ -81,7 +83,7 @@ namespace ReportReaderGUI
                 return;
             }
 
-            string path = System.IO.Path.GetFullPath(System.IO.Path.Combine(Directory.GetCurrentDirectory(), default));
+            string path = System.IO.Path.GetFullPath(System.IO.Path.Combine(Directory.GetCurrentDirectory(), defaultOutput));
             CommonOpenFileDialog dialog = new CommonOpenFileDialog();
             dialog.InitialDirectory = path;
             dialog.IsFolderPicker = true;
@@ -125,6 +127,28 @@ namespace ReportReaderGUI
 
             ReportParser.SaveReports(reports, ReportParser.ReportOutput.SQLite, path);
             MessageBox.Show("Done.");
+        }
+
+        private void txtSearch_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (reports.Count  == 0)
+            {
+                return;
+            }
+
+            gridSummaryReports.ItemsSource = reports.Where(x => x.ReportType == ReportType.Summary && 
+                                                                x.CircuitName.Contains(txtSearch.Text) &&
+                                                                x.File_Content.Contains(txtSearchContent.Text) &&
+                                                                x.File_State.Contains(txtSearchFState.Text) &&
+                                                                x.Date.Contains(txtSearchDate.Text)
+                                                                );
+
+            gridTransformReports.ItemsSource = reports.Where(x => x.ReportType == ReportType.Transform &&
+                                                                x.CircuitName.Contains(txtSearch.Text) &&
+                                                                x.File_Content.Contains(txtSearchContent.Text) &&
+                                                                x.File_State.Contains(txtSearchFState.Text) &&
+                                                                x.Date.Contains(txtSearchDate.Text)
+                                                                );
         }
     }
 }

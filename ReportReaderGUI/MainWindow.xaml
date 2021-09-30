@@ -5,14 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ReportReaderGUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="481" Width="800">
+        Title="MainWindow" Height="521" Width="800">
     <Grid>
         <Label x:Name="labelWorkingDirectory" Content="Working directory: " HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top"/>
         <Button x:Name="btnBrowse" Content="Browse" HorizontalAlignment="Left" Margin="601,27,0,0" VerticalAlignment="Top" Width="80" Click="btnBrowse_Click"/>
         <TextBox x:Name="txtDirectory" HorizontalAlignment="Left" Margin="126,28,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="433"/>
         <Button x:Name="btnParse" Content="Parse" HorizontalAlignment="Left" Margin="699,28,0,0" VerticalAlignment="Top" Width="80" Click="btnParse_Click"/>
 
-        <TabControl Margin="10,55,0,76">
+        <TabControl Margin="10,181,0,76">
             <TabItem Name="tabSummary">
                 <TabItem.Header>
                     <StackPanel>
@@ -33,6 +33,14 @@
         </TabControl>
         <Button x:Name="btnSaveFile" Content="Save to file" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,15"  Width="88" Click="btnSaveFile_Click"/>
         <Button x:Name="btnSaveDB" Content="Save to Database" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="132,0,0,15"  Width="106" Click="btnSaveDB_Click"/>
+        <Label x:Name="labelSearch" Content="Search by circuit name: " HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Margin="150,59,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="409" TextChanged="txtSearch_TextChanged"/>
+        <Label x:Name="labelSearchContent" Content="Search by content: " HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSearchContent" HorizontalAlignment="Left" Margin="150,90,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="409" TextChanged="txtSearch_TextChanged"/>
+        <Label x:Name="labelSearchState" Content="Search by file state: " HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSearchFState" HorizontalAlignment="Left" Margin="150,121,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="409" TextChanged="txtSearch_TextChanged"/>
+        <Label x:Name="labelSearchDate" Content="Search by date: " HorizontalAlignment="Left" Margin="10,148,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSearchDate" HorizontalAlignment="Left" Margin="150,152,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="409" TextChanged="txtSearch_TextChanged"/>
 
 
     </Grid>
