@@ -1,4 +1,6 @@
 ﻿using System;
+using LiveCharts;
+using LiveCharts.Wpf;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,6 +32,9 @@ namespace ReportReaderGUI
         const string defaultDBPath = @"..\..\..\Results\Reports.db";
 
         List<Report> reports = new List<Report>();
+
+        private bool chartShown = false;
+        ChartWindow chartWindow;
 
         public MainWindow()
         {
@@ -73,6 +78,8 @@ namespace ReportReaderGUI
 
             gridSummaryReports.ItemsSource = reports.Where(x=> x.ReportType == ReportType.Summary);
             gridTransformReports.ItemsSource = reports.Where(x => x.ReportType == ReportType.Transform);
+
+            if (chartShown) chartWindow.LoadChartData(reports);
         }
 
         private void btnSaveFile_Click(object sender, RoutedEventArgs e)
@@ -150,5 +157,21 @@ namespace ReportReaderGUI
                                                                 x.Date.Contains(txtSearchDate.Text)
                                                                 );
         }
+
+        private void btnChartView_Click(object sender, RoutedEventArgs e)
+        {
+            btnChartView.IsEnabled = false;
+            chartShown = true;
+            chartWindow = new ChartWindow(this);
+            chartWindow.Show();
+            chartWindow.LoadChartData(reports);
+        }
+
+        public void ChartClosed()
+        {
+            btnChartView.IsEnabled = true;
+            chartShown = false;
+        }
+
     }
 }

@@ -23,10 +23,6 @@ namespace ReportReader.Classes
 
         public string Log_Directory { get; set; }
 
-        public override string ToString()
-        {
-            return string.Format($"({CircuitName},{File_Content},{File},{Date},{File_State},{Log_Directory})");
-        }
 
     }
 }

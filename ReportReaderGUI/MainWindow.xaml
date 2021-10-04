@@ -41,6 +41,7 @@
         <TextBox x:Name="txtSearchFState" HorizontalAlignment="Left" Margin="150,121,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="409" TextChanged="txtSearch_TextChanged"/>
         <Label x:Name="labelSearchDate" Content="Search by date: " HorizontalAlignment="Left" Margin="10,148,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtSearchDate" HorizontalAlignment="Left" Margin="150,152,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="409" TextChanged="txtSearch_TextChanged"/>
+        <Button x:Name="btnChartView" Content="View chart" HorizontalAlignment="Left" Margin="601,57,0,0" VerticalAlignment="Top" Width="178" Click="btnChartView_Click"/>
 
 
     </Grid>
